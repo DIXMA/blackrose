@@ -1,2 +1,4 @@
 /fullsite/settings.py
 .idea
+blackrose/__pycache__/
+blackrose/migrations
